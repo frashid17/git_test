@@ -1,0 +1,2 @@
+Hi my name is Patrick
+I am getting started with Git 
